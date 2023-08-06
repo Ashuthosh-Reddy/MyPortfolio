@@ -41,7 +41,7 @@ function Projects() {
       <div className="container projects-list" id='projects-list'>
 
           <h3 className="font-bold">Take a look some of my projects.</h3>
-          <h5>To see more projects click <a href = "https://github.com/jaydip1235" target="_blank" style={{textDecoration: 'none'}}>here</a></h5>
+          <h5>To see more projects click <a href = "https://github.com/Ashuthosh-Reddy" target="_blank" style={{textDecoration: 'none'}}>here</a></h5>
           <hr />
           <div className="row">
 

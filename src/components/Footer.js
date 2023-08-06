@@ -25,13 +25,13 @@ function Footer() {
               <p>Designed and Developed By</p>
               <hr />
               <div className="d-flex justify-content-evenly px-2">
-                <a href="https://www.instagram.com/jaydipdey2807/" target="_blank"><FaInstagram className="footer-icons" /></a>
-                <a href="https://www.linkedin.com/in/jaydip-dey-8a90221b2/" target="_blank"><FaLinkedinIn className="footer-icons" /></a>
-                <a href="https://github.com/jaydip1235"><FaGithub className="footer-icons"/></a>
+                <a href="https://www.instagram.com/ashuthoshreddy_07/" target="_blank"><FaInstagram className="footer-icons" /></a>
+                <a href="https://www.linkedin.com/in/ashuthosh-reddy-076119238/" target="_blank"><FaLinkedinIn className="footer-icons" /></a>
+                <a href="https://github.com/Ashuthosh-Reddy"><FaGithub className="footer-icons"/></a>
               </div>
               <hr />
               <br />
-              <p>Jaydip Dey</p>
+              <p>Ashuthosh Reddy</p>
             </div>
           </div>
         </div>

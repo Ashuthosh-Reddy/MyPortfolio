@@ -13,16 +13,16 @@ function Home() {
         style={{ backgroundImage: `url('./introbg.svg')` }}
       >
         <div>
-          <h1 data-aos="fade-up" className="ms-2">JAYDIP DEY</h1>
+          <h1 data-aos="fade-up" className="ms-2">ASHUTHOSH REDDY</h1>
 
           <div className="intro-content d-flex justify-content-between">
             <p className="ms-2">
-              JUCSE'23 <br /> SDE Intern @Optum 2022
+              NITKKR'24 <br /> SDE Intern @upGrad 2023
             </p>
 
             <button className="primary-button font-bold">
               <a
-                href="https://pdfhost.io/v/H8xDb53Xv_Jaydip_Dey"
+                href="https://pdfhost.io/v/Pt2h7yLLt_PENDRI_ASHUTHOSH_REDDY_Resume"
                 target="_blank"
               >
                 Resume
@@ -46,18 +46,18 @@ function Home() {
 
       <div className="why-jd-parent" style={{cursor: "pointer"}} >
         <div className="why-jd n-box1 flex-with-center" >
-          <h1 className="text-center">Who is Jaydip?</h1>
+          <h1 className="text-center">Who is Ashuthosh Reddy?</h1>
           <div className="why-jd-content">
-            <p>&#10627;</p>
+            
 
-            <p>"Name" : "Jaydip Dey"</p>
+            <p>"Name" : "Ashuthosh Reddy"</p>
 
-            <p>"College" : "Jadavpur University"</p>
+            <p>"College" : "NIT Kurukshetra"</p>
 
-            <p>"Batch" : "2019-23"</p>
+            <p>"Batch" : "2020-24"</p>
 
-            <p>"Branch" : "CSE"</p>
-            <p>&#10628;</p>
+            <p>"Branch" : "ECE"</p>
+            
           </div>
         </div>
       </div>
@@ -71,8 +71,7 @@ function Home() {
                 An aspiring Software Development Engineer with the ability to
                 solve problems and think outside the box. I am enthusiastic
                 about exploring new technologies which have potential to enhance
-                user experience. I am also familiar to DSA, CP and Open Source
-                contribution.
+                user experience. I am also familiar to DSA.
               </p>
             </div>
           </div>
@@ -91,8 +90,7 @@ function Home() {
             <div className="n-box2 p-5 font-bold" data-aos="fade-left">
               <h2>My hobbies</h2>
               <p>
-                My hobbies include listening to music,reading articles, playing
-                piano and exploring new tune in it. Moreover I also love to take
+                My hobbies include listening to music,reading articles. Moreover I also love to take
                 part in various technical and non-technical events and love to
                 interact with people to share knowledge, thoughts and  ideas
                 with them.
@@ -124,8 +122,8 @@ function Home() {
               <hr />
               <p>HTML/CSS</p>
               <p>Javascript</p>
-              <p>ReactDOM</p>
-              <p>Redux</p>
+              <p>Angular</p>
+              <p>React</p>
             </div>
           </div>
 
@@ -135,9 +133,6 @@ function Home() {
               <hr />
               <p>C</p>
               <p>C++</p>
-              <p>Java</p>
-              <p>Python</p>
-              <p>Kotlin</p>
             </div>
           </div>
 
@@ -147,7 +142,6 @@ function Home() {
               <hr />
               <p>Node JS</p>
               <p>Express</p>
-              <p>SQL</p>
               <p>Mongo DB</p>
             </div>
           </div>
@@ -156,9 +150,6 @@ function Home() {
               <h3 className="font-bold">Other</h3>
               <hr />
               <p>DSA</p>
-              <p>Competitive programming</p>
-              <p>Open source contribution</p>
-              <p>Android</p>
             </div>
           </div>
         </div>

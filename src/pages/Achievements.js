@@ -25,7 +25,6 @@ function Achievements() {
 
       <div className="container achievements-list mb-5 mt-4" id='achievements-list'>
         <h3 className="font-bold">Some of my Achievements</h3>
-        <h5>To see more click <a href = "https://drive.google.com/drive/u/0/folders/1a3WOnKpL0INtFs27_IKlvrbNJTW0xCjs" target="_blank" style={{textDecoration: 'none'}}>here</a></h5>
         <hr />
 
         <div className="row mt-5">
