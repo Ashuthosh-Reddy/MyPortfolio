@@ -17,12 +17,12 @@ function Home() {
 
           <div className="intro-content d-flex justify-content-between">
             <p className="ms-2">
-              NITKKR'24 <br /> SDE Intern @upGrad 2023
+              NITKKR'24 <br /> Engineer @LTTS
             </p>
 
             <button className="primary-button font-bold">
               <a
-                href="https://pdfhost.io/v/Pt2h7yLLt_PENDRI_ASHUTHOSH_REDDY_Resume"
+                href="https://pdfhost.io/edit?doc=b0bfcfc1-bcfb-4241-9f69-e7af711fd09a"
                 target="_blank"
               >
                 Resume
