@@ -15,7 +15,7 @@ function Contact() {
 
                   <hr />
 
-                  <form action="https://formspree.io/f/xwkyeakz" method="POST" role="form" id="my-form">
+                  <form action="https://formspree.io/f/mrbpggpb" method="POST" role="form" id="my-form">
             
 
                       <input type="text" name="name" id="name" className='form-control' placeholder='Name' required />
