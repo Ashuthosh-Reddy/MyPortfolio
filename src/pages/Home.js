@@ -133,6 +133,8 @@ function Home() {
               <hr />
               <p>C</p>
               <p>C++</p>
+              <p>Python</p>
+              <p>SQL</p>
             </div>
           </div>
 
@@ -150,6 +152,8 @@ function Home() {
               <h3 className="font-bold">Other</h3>
               <hr />
               <p>DSA</p>
+              <p>OOPS</p>
+              <p>DBMS</p>
             </div>
           </div>
         </div>
